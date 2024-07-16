@@ -1,0 +1,14 @@
+---
+title: "data"
+author: "Elaine Zhang"
+format: html
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+read.csv("resume.csv")
+```
+
